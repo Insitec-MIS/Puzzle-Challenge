@@ -24,4 +24,5 @@ We have prepared some sample image files for you to test your program with, you 
 Thanks again for giving it a crack, we hope you have some fun with it and we look forward to the follow up session to walk through your solution.
 
 Cheers,
+
    The Insitec MIS Engineering Team
