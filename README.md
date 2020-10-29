@@ -19,10 +19,8 @@ So what is the challenge? We want you to write a program that lists the steps ne
   - Each move should be recorded as one of; up, down, left or right.
   - Each move should be written on a new line.
 
-Other thigns to know:
-- We have prepared some sample image files for you to test your program with, you can find them [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_01.bmp) and [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_02.bmp).
-- If you do not normally develop on windows or with Visual Studio download and run the windows 10 dev image from [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/), it will have everything you need to get going quick.
-- If something is unclear or you have any questions please reach out to us via email at <mis-development@insitec.com.au>.
+
+We have prepared some sample image files for you to test your program with, you can find them [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_01.bmp) and [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_02.bmp). If you do not normally develop on windows or with Visual Studio download and run the windows 10 dev image from [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/), it will have everything you need to get going quick. If something is unclear or you have any questions please reach out to us via email at <mis-development@insitec.com.au>.
 
 Thanks again for giving it a crack, we hope you have some fun with it and we look forward to the follow up session to walk through your solution.
 
