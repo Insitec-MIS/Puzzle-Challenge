@@ -4,13 +4,13 @@
 
 In this repository we have provided you with a simple Visual Studio project for you to use as the starting point for the challenge. Create whatever files you feel are necessary to develop the solution... But please don’t change too many project settings (especially the build artefacts) or you might upset our checking tools.
 
-Generally we will give candidates a week to work on the challenge but don’t stress it if you can't finish it in time... It's just a little bit evil to be honest! So do your best to work through the bits you can, document the bits you won't code. If you have not already guessed this is one of those "show us how you approach problems" type of problems so please be ready to share your screen with us in the follow up session and walk us though your solution.
+Generally we will give candidates a week to work on the challenge but don’t stress it if you can't finish it in time... It's just a little bit evil to be honest! So do your best to work through the bits you can and document the bits you won't code. If you have not already guessed this is one of those "show us how you approach problems" type of problem so please be ready to share your screen with us in the follow up session and walk us though your solution.
 
-So what is the challenge? We want you to write a program that lists the steps necessary to solve a [slide puzzle](https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html). Simple right? Well it would be but the catch is that the puzzle state is given to the application as a bitmap image. The other requirements and constraints for the application is as follows:
+So what is the challenge? We want you to write a program that lists the steps necessary to solve a [slide puzzle](https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html). Simple right? Well it would be but the catch is that the puzzle state is given to the application as a bitmap image and we are placing a constraint on the use of external libraires. The full list of requirements and constraints for the application is as follows:
 
 - The application must be developed in C++.
 - The application must not use any external libraries.
-  - stdlib being the one exception.
+  - Note that it is ok to use the stdlib.
 - The application must take a single argument where:
   - The argument is a path to a file.
   - The file format will be a [24bit bitmap](https://en.wikipedia.org/wiki/BMP_file_format).
@@ -26,3 +26,4 @@ Thanks again for giving it a crack, we hope you have some fun with it and we loo
 Cheers,
 
    The Insitec MIS Engineering Team
+   
