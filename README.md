@@ -1,8 +1,10 @@
 **Dear Insitec MIS Candidate,**
 
-**Thank you for making the time to have a crack at our little coding challenge!**
+Insitec MIS is a research and development house with an ever-growing portfolio of projects that span a wide variety of exciting domains. To help us deliver all these projects we are always on the lookout for talented individuals with an interest in such things as: Machine Learning, Wireless Mesh Networks, Military Command and Control, Satellite Communications and Autonomous Vehicles (just to name a few!).
 
-To start the challenge please use [this repository as a template](https://github.com/Insitec-MIS/Puzzle-Challenge/generate) to create a **private** repository under your own github account then add the following collaborators for review:
+**If you are such an individual we invite you have a crack our little coding challenge!**
+
+Before you jump into the code please use [this repository as a template](https://github.com/Insitec-MIS/Puzzle-Challenge/generate) to create a **private** repo under your own github account then add the following collaborators for review:
  - [Heath-Insitec](https://github.com/Heath-Insitec)
  - [Adam-Insitec](https://github.com/Adam-Insitec)
  - [Lachlan-Insitec](https://github.com/Lachlan-Insitec)
@@ -23,11 +25,12 @@ So what is the challenge? We want you to write a program that lists the steps ne
   - Each move should be recorded as one of; Up, Down, Left or Right.
   - Each move should be written on a new line.
 
-We have prepared some sample image files for you to test your program with, you can find them [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_01.bmp) and [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_02.bmp). If you do not normally develop on Windows or with Visual Studio please download and run the windows 10 dev image from [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/), it will have everything you need to get going quickly. Frequent check-ins to the main branch is recommend as we expect you to be the sole contributer. If something is unclear or you have any questions please reach out to any of the revirews listed above or email us at <mis-development@insitec.com.au>.
+We have prepared some sample image files for you to test your program with, you can find them [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_01.bmp) and [here](https://raw.githubusercontent.com/Insitec-MIS/Sample-Puzzles/main/Sample_02.bmp). If you do not normally develop on Windows or with Visual Studio please download and run the windows 10 dev image from [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/), it will have everything you need to get going quickly. Frequent check-ins to the main branch is recommend as we expect you to be the sole contributor.
+
+If something is unclear or you have any questions please reach out to any of the reviews listed above. When you are happy with your solution and would like to arrange a review session please email us at <mis-development@insitec.com.au>.
 
 Thanks again for giving it a crack, we hope you have some fun with it and we look forward to reviewing your solution.
 
 Cheers,
 
    The Insitec MIS Engineering Team
-   
