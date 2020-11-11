@@ -5,7 +5,7 @@
 To start the challenge please use [this repository as a template](https://github.com/Insitec-MIS/Puzzle-Challenge/generate) to create a **private** repository under your own github account then add the following collaborators for review:
  - [Heath-Insitec](https://github.com/Heath-Insitec)
  - [Adam-Insitec](https://github.com/Adam-Insitec)
- - [Lachlan-Insitec](https://github.com/Lachlan-Insitec]
+ - [Lachlan-Insitec](https://github.com/Lachlan-Insitec)
 
 We have provided you with a simple Visual Studio project for you to use as the starting point for the challenge. Create whatever files you feel are necessary to develop the solution... But please don’t change too many project settings (especially the build artefacts) or you might upset our checking tools.
 
